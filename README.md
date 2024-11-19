@@ -8,6 +8,6 @@ Install Google Clound CLI: https://cloud.google.com/sdk/docs/install
 Follow these instructions to setup Google Cloud and: https://cloud.google.com/text-to-speech/docs/libraries
 Install python 3.12 and be sure to check add to path.
 Run powershell as admin and input " pip install --upgrade google-cloud-texttospeech " and " pip install tkinter " and " pip install requests".
-Run python idle and File-new file(Ctrl+N) paste code and enjoy.
+Run python idle and File-new file(Ctrl+N) paste code from https://github.com/markpk69/Text-To-Speech-Google-Cloud/blob/main/Text%20to%20Speech%20GUI.py and enjoy!
 
 
