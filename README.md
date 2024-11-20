@@ -27,4 +27,4 @@ Run python idle as Admin and File-new file(Ctrl+N) paste code from
 [Text to Speech GUI.py](https://github.com/markpk69/Text-To-Speech-Google-Cloud/blob/496486fe762e9a4879206e6bd29a02c67f7508b5/Text%20to%20Speech%20GUI.py)
 
 Enjoy!
-There is some farts between the meshing of the audio files, but not annoying.
+There is some quiet pops between the meshing of the audio files, but not annoying.
