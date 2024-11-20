@@ -10,7 +10,7 @@ Google does still limit it,Here is the quotas: https://cloud.google.com/text-to-
 
 [Install Google Clound CLI](https://cloud.google.com/sdk/docs/install).
 
-Follow these instructions to [setup Google Cloud](https://cloud.google.com/text-to-speech/docs/libraries).
+Follow these instructions to [Setup Google Cloud and TTS](https://cloud.google.com/text-to-speech/docs/libraries).
 
 [Install python 3.12](https://www.python.org/downloads/release/python-3127/) and be sure to check Add To Path during installation.
 
