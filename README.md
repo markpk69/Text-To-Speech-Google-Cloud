@@ -17,7 +17,7 @@ Follow these instructions to [Setup Google Cloud and TTS](https://cloud.google.c
 Run powershell as admin and input 
 ```
 pip install --upgrade google-cloud-texttospeech
-pip install tkinter 
+pip install tk
 pip install requests
 pip install charset-normalizer
 ```
